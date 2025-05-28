@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 795.51 327.49">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-7 {
+        stroke: #231f20;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: CenturyGothic, 'Century Gothic';
+        font-size: 83.75px;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 40px;
+      }
+
+      .cls-3, .cls-7 {
+        opacity: .58;
+      }
+
+      .cls-5 {
+        stroke-width: 17px;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: 20px;
+      }
+
+      .cls-9 {
+        opacity: .39;
+      }
+
+      .cls-10 {
+        fill: #735fa9;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <image class="cls-9" width="281" height="287" transform="scale(1.16 1.14)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARoAAAEbCAYAAAAF70sfAAAACXBIWXMAAAmIAAAJiAFxlewOAAADk0lEQVR4nO3UMQEAMAyAsHb+PXcq+BIJHAxAbe/uVAYqu7tPXaBmNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaIGc0QM5ogJzRADmjAXJGA+SMBsgZDZAzGiBnNEDOaICc0QA5owFyRgPkjAbIGQ2QMxogZzRAzmiAnNEAOaMBckYD5IwGyBkNkDMaoDUzH9nZBjREz7yYAAAAAElFTkSuQmCC"/>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <circle class="cls-10" cx="166.76" cy="163.74" r="126.97"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <circle class="cls-1" cx="166.76" cy="163.69" r="127.2"/>
+    <circle class="cls-3" cx="166.02" cy="123.03" r="30.91"/>
+    <circle class="cls-8" cx="166.02" cy="65.47" r="31.15" transform="translate(95.84 229.55) rotate(-88.36)"/>
+    <circle class="cls-7" cx="166.02" cy="62.48" r="19.37"/>
+    <circle class="cls-4" cx="227.84" cy="231.94" r="30.91"/>
+    <circle class="cls-6" cx="227.84" cy="171.4" r="19.37"/>
+    <circle class="cls-4" cx="100.98" cy="192.44" r="30.91"/>
+    <rect class="cls-6" x="58.78" y="92.12" width="11.29" height="138.1"/>
+    <circle class="cls-10" cx="227.84" cy="230.21" r="19.57"/>
+    <rect class="cls-10" x="199.5" y="210.64" width="28.73" height="9.47"/>
+    <rect class="cls-10" x="198.46" y="174.82" width="28.73" height="9.47"/>
+    <circle class="cls-5" cx="166.76" cy="163.74" r="135.59"/>
+    <text class="cls-2" transform="translate(323.3 200) scale(.95 1)"><tspan x="0" y="0">Fórmula b33</tspan></text>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <rect class="cls-10" x="111.72" y="69.35" width="43.41" height="46.28"/>
+    <path class="cls-10" d="M191.85,174.22h27.87v51.55h-48v-31.42c0-11.11,9.02-20.13,20.13-20.13Z"/>
+    <circle class="cls-10" cx="226.3" cy="172.94" r="11.34"/>
+    <circle class="cls-4" cx="165.81" cy="122.57" r="30.91"/>
+    <circle class="cls-6" cx="165.81" cy="62.02" r="19.37"/>
+    <circle class="cls-10" cx="165.81" cy="120.84" r="19.57"/>
+    <rect class="cls-10" x="137.47" y="101.26" width="28.73" height="9.47"/>
+    <rect class="cls-10" x="136.43" y="65.44" width="28.73" height="9.47"/>
+    <path class="cls-10" d="M129.82,64.85h27.87v51.55h-48v-31.42c0-11.11,9.02-20.13,20.13-20.13Z"/>
+    <circle class="cls-10" cx="164.27" cy="63.57" r="11.34"/>
+    <circle class="cls-10" cx="100.98" cy="192.44" r="19.57"/>
+  </g>
+</svg>
